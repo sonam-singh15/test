@@ -1,1 +1,1 @@
-i am learning git 
+This is my first day ..i am learning git 
