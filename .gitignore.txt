@@ -508,4 +508,7 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
+#ignore .txt
+*.txt
+
 # End of https://www.toptal.com/developers/gitignore/api/windows,visualstudio,aspnetcore
